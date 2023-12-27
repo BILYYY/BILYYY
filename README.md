@@ -16,9 +16,9 @@ I'm a student at UIA Grimstad, exploring the world of software development.
   <img src="https://github-readme-stats.vercel.app/api?username=BILYYY&show_icons=true&theme=dark" alt="Ilyass's GitHub stats">
 </div>
 
-<div align="center">
+<!--<div align="center">
   <img src="https://github.com/BILYYY/BILYYY/assets/63551022/23a0cb79-33d4-48b6-b0b6-f5566560c7b5" alt="New Project">
-</div>
+</div>-->
 
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
