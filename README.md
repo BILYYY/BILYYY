@@ -10,7 +10,7 @@ I'm a student at UIA Grimstad, currently deepening my knowledge in software deve
 
 ## 📊 My GitHub Stats:
 
-![Ilyass's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Ilyass's GitHub stats](https://github-readme-stats.vercel.app/api?username=BILYYY&show_icons=true&theme=radical)
 
 ## 🔧 Languages and Tools:
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
