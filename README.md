@@ -6,12 +6,13 @@
 I'm a student at UIA Grimstad, exploring the world of software development.
 
 ## About me
-- 🎓 I'm a Computer Science student at the University of Agder (UIA) in Grimstad, Norway.
-- 👨‍💻 I'm proficient in Java, C, C++, and Spring Boot.
-- 🌱 I’m honing my skills and learning new technologies.
+-  I'm a Computer Science student at the University of Agder (UIA) in Grimstad, Norway.
+-  I'm currently learning Java, C, and C++, and exploring Spring Boot.
+-  I’m continually honing my skills and learning new technologies.
 - 💬 Feel free to reach out to me for collaboration or discussions on tech topics.
 
-## 📊 My GitHub Stats
+
+##  My GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BILYYY&show_icons=true&theme=dark" alt="Ilyass's GitHub stats">
 </div>
@@ -26,7 +27,7 @@ I'm a student at UIA Grimstad, exploring the world of software development.
   </a>
 </div>
 
-## 🔧 Languages and Tools
+##  Languages and Tools
 <div align="center">
   <img src="https://github.com/BILYYY/BILYYY/assets/63551022/d7859be6-2107-48ed-84f8-6ae2f1dee2d8" alt="tools">
 </div>
