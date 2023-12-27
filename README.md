@@ -30,7 +30,7 @@ I'm a student at UIA Grimstad, exploring the world of software development.
 </div>
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BILLY-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=BILYYY-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ##  Languages and Tools
 <div align="center">
