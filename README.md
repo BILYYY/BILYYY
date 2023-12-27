@@ -10,8 +10,8 @@ I'm a student at UIA Grimstad, exploring the world of software development.
 - 💬 Feel free to reach out to me for collaboration or discussions on tech topics.
 
 ## 📊 My GitHub Stats:
-![New Project](https://github.com/BILYYY/BILYYY/assets/63551022/23a0cb79-33d4-48b6-b0b6-f5566560c7b5)!
 ![Ilyass's GitHub stats](https://github-readme-stats.vercel.app/api?username=BILYYY&show_icons=true&theme=dark)
+![New Project](https://github.com/BILYYY/BILYYY/assets/63551022/23a0cb79-33d4-48b6-b0b6-f5566560c7b5)!
 [![Ilyass's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BILYYY&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
