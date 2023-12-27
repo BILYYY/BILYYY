@@ -31,13 +31,16 @@ I'm a student at UIA Grimstad, exploring the world of software development.
 <div align="center">
   <img src="https://github.com/BILYYY/BILYYY/assets/63551022/d7859be6-2107-48ed-84f8-6ae2f1dee2d8" alt="tools">
 </div>
+<div align="center">
+<img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java"alt="Java">
+<img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c"alt="C">
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus"alr="C++">
+<img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot"alt="spring boot">
+</div>
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot)
 
 ## 📚 Most Used Languages
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BILYYY&layout=compact&theme=dark" alt="Top Langs">
 </div>
+<div align="center">
