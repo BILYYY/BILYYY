@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/63551022/292980730-19f2da2b-0f24-4f18-9e0b-6b2332748ad4.svg" alt="SVG Image">
-  <h1>Hi there, I'm Ilyass Bouchabti 👋</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=2CD3FF&random=false&width=435&lines=Hi+there%2C+I'm+Ilyass+Bouchabti+" alt="Typing SVG" /></a>
 </div>
 
 I'm a student at UIA Grimstad, exploring the world of software development.
@@ -15,7 +15,7 @@ I'm a student at UIA Grimstad, exploring the world of software development.
 ##  My GitHub Stats
 <div align="center">
   <a herf="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=BILYYY&theme=shadow-red&hide_border=true"alt="ilyass stast">
+    <img src="https://streak-stats.demolab.com?user=BILYYY&theme=shadow-red"alt="ilyass stast">
   </a>
 </div>
 
