@@ -11,12 +11,18 @@ I'm a student at UIA Grimstad, exploring the world of software development.
 
 ## 📊 My GitHub Stats:
 ![Ilyass's GitHub stats](https://github-readme-stats.vercel.app/api?username=BILYYY&show_icons=true&theme=dark)
-![New Project](https://github.com/BILYYY/BILYYY/assets/63551022/23a0cb79-33d4-48b6-b0b6-f5566560c7b5)!
+
+<div align="right">
+  <img src="https://github.com/BILYYY/BILYYY/assets/63551022/23a0cb79-33d4-48b6-b0b6-f5566560c7b5" alt="New Project">
+</div>
+
 [![Ilyass's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BILYYY&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## 🔧 Languages and Tools:
-![New Project (1)](https://github.com/BILYYY/BILYYY/assets/63551022/d7859be6-2107-48ed-84f8-6ae2f1dee2d8)
+<div align="right">
+  <img src="https://github.com/BILYYY/BILYYY/assets/63551022/d7859be6-2107-48ed-84f8-6ae2f1dee2d8" alt="tools">
+</div>
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c)
@@ -27,3 +33,4 @@ I'm a student at UIA Grimstad, exploring the world of software development.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BILYYY&layout=compact&theme=dark)
 
 <!-- You can add more badges for other languages and tools you are familiar with -->
+
