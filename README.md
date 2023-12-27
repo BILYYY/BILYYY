@@ -17,7 +17,6 @@ I'm a student at UIA Grimstad, exploring the world of software development.
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot)
-... add other languages and tools ...
 
 ## 📚 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BILYYY&layout=compact&theme=radical)
