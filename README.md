@@ -23,7 +23,7 @@ I'm a student at UIA Grimstad, exploring the world of software development.
 
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=BILYYY&theme=high-contrast&line=ff0000&area_color=A8BBB0&title_color=EBE8E0" alt="Ilyass's github activity graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BILYYY&theme=high-contrast&line=ff0000&area_color=A8BBB0&title_color=EBE8E0" alt="Ilyass's github activity graph">
   </a>
 </div>
 
