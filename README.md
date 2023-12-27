@@ -19,10 +19,6 @@ I'm a student at UIA Grimstad, exploring the world of software development.
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BILYYY&show_icons=true&theme=dark" alt="Ilyass's GitHub stats">
-</div>
-
 <!--<div align="center">
   <img src="https://github.com/BILYYY/BILYYY/assets/63551022/23a0cb79-33d4-48b6-b0b6-f5566560c7b5" alt="New Project">
 </div>-->
@@ -32,6 +28,9 @@ I'm a student at UIA Grimstad, exploring the world of software development.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BILYYY&theme=high-contrast&line=ff0000" alt="Ilyass's github activity graph">
   </a>
 </div>
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=BILLY-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ##  Languages and Tools
 <div align="center">
