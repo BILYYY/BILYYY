@@ -1,4 +1,4 @@
-[SVG Image](https://github-production-user-asset-6210df.s3.amazonaws.com/63551022/292980730-19f2da2b-0f24-4f18-9e0b-6b2332748ad4.svg)
+![SVG Image](https://github-production-user-asset-6210df.s3.amazonaws.com/63551022/292980730-19f2da2b-0f24-4f18-9e0b-6b2332748ad4.svg)
 # Hi there, I'm Ilyass Bouchabti 👋
 
 I'm a student at UIA Grimstad, exploring the world of software development.
