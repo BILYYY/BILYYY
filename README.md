@@ -11,7 +11,7 @@ I'm a student at UIA Grimstad, exploring the world of software development.
 
 ## 📊 My GitHub Stats:
 
-![Ilyass's GitHub stats](https://github-readme-stats.vercel.app/api?username=BILYYY&show_icons=true&theme=radical)
+![Ilyass's GitHub stats](https://github-readme-stats.vercel.app/api?username=BILYYY&show_icons=true&theme=dark)
 [![Ilyass's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BILYYY&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
@@ -22,6 +22,6 @@ I'm a student at UIA Grimstad, exploring the world of software development.
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot)
 
 ## 📚 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BILYYY&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BILYYY&layout=compact&theme=dark)
 
 <!-- You can add more badges for other languages and tools you are familiar with -->
