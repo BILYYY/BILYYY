@@ -36,7 +36,7 @@
 
 ## My GitHub Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BILYYY)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=BILYYY&&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ##  Languages and Tools
 <div align="center">
