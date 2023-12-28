@@ -9,10 +9,14 @@
 -  I’m continually honing my skills and learning new technologies.
 - 💬 Feel free to reach out to me for collaboration or discussions on tech topics.
 
-![Snake animation](https://raw.githubusercontent.com/BILYYY/BILYYY/output/github-contribution-grid-snake.svg)
-
 
 ##  My GitHub Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BILYYY/BILYYY/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BILYYY/BILYYY/output/github-snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/BILYYY/BILYYY/output/github-snake.svg" />
+</picture>
+
 <div align="center">
   <a herf="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=BILYYY&theme=shadow-red"alt="ilyass stast">
