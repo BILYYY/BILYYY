@@ -1,8 +1,8 @@
 name: Generate Datas
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule:
+    - cron: '0 */12 * * *'  # This will run the workflow every 12 hours
   workflow_dispatch:
 
 jobs:
@@ -10,9 +10,10 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v2  # Make sure to checkout the code
+
       # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
+      - uses: Platane/snk@v3  # Use a specific stable version
         with:
           github_user_name: BILYYY
           svg_out_path: dist/github-contribution-grid-snake.svg
