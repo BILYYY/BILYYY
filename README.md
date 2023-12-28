@@ -8,7 +8,9 @@
 -  I'm currently learning Java, C, and C++, and exploring Spring Boot.
 -  I’m continually honing my skills and learning new technologies.
 - 💬 Feel free to reach out to me for collaboration or discussions on tech topics.
-![Snake animation](https://github.com/{{BILYYY}}/{{BILYYY}}/blob/output/github-contribution-grid-snake.svg)
+- 
+![Snake animation](https://github.com/BILYYY/BILYYY/blob/output/github-contribution-grid-snake.svg)
+
 ##  My GitHub Stats
 <div align="center">
   <a herf="https://git.io/streak-stats">
