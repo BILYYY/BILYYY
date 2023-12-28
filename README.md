@@ -1,10 +1,8 @@
 <div align="center">
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/63551022/292980730-19f2da2b-0f24-4f18-9e0b-6b2332748ad4.svg" alt="SVG Image">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=2CD3FF&random=false&width=435&lines=Hi+there%2C+I'm+Ilyass+Bouchabti+" alt="Typing SVG" /></a>
 </div>
 
-I'm a student at UIA Grimstad, exploring the world of software development.
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=17&pause=1000&color=FFFFFF&random=false&width=435&lines=I'm+a+student+at+UIA+Grimstad" alt="Typing SVG" /></a>
 ## About me
 -  I'm a Computer Science student at the University of Agder (UIA) in Grimstad, Norway.
 -  I'm currently learning Java, C, and C++, and exploring Spring Boot.
@@ -28,9 +26,8 @@ I'm a student at UIA Grimstad, exploring the world of software development.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BILYYY&theme=high-contrast&line=ff0000" alt="Ilyass's github activity graph">
   </a>
 </div>
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=BILYYY-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+## My GitHub Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=BILYYY)](https://github.com/ryo-ma/github-profile-trophy)
 
 ##  Languages and Tools
 <div align="center">
