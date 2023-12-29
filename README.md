@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7000052&random=false&width=435&lines=student+at+uia+grimstad)](https://git.io/typing-svg)
 
 ## About me
--  I'm a Computer Science student at the University of Agder (UIA) in Grimstad, Norway.
+-  I'm a Computer Engineering student at the University of Agder (UIA) in Grimstad, Norway.
 -  I'm currently learning Java, C, and C++, and exploring Spring Boot.
 -  I’m continually honing my skills and learning new technologies.
 - 💬 Feel free to reach out to me for collaboration or discussions on tech topics.
