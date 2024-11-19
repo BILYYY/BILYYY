@@ -16,8 +16,12 @@
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/BILYYY/BILYYY/output/github-snake.svg" />
 </picture>
 
-
-
+<!--
+<div align="center">
+  <a herf="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=BILYYY&theme=shadow-red"alt="ilyass stast">
+  </a>
+</div>
 <!--<div align="center">
   <img src="https://github.com/BILYYY/BILYYY/assets/63551022/23a0cb79-33d4-48b6-b0b6-f5566560c7b5" alt="New Project">
 </div>-->
