@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 - 🎓 **2nd-Year Student** at UIA Grimstad
-- 💻 Proficient in Java, C, C#, C++, JavaScript, ASP.NET, and QT
+- 💻 Meduime in Java, C, C#, C++, JavaScript, ASP.NET, and QT
 - 🌱 Continuously honing my skills and learning new technologies
 - 💬 Feel free to reach out for collaborations or discussions on tech topics
 
