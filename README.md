@@ -120,17 +120,3 @@
 
 ---
 
-### 📝 Additional Recommendations
-
-1. **Contact Information**:
-   - Consider adding a section with your email or links to your LinkedIn, Twitter, or personal website for easier networking.
-
-2. **Projects**:
-   - Highlight a few key projects you've worked on. This gives visitors a glimpse of your practical experience.
-
-   ```markdown
-   ## 🚀 Projects
-   ### [Project Name](https://github.com/BILYYY/Project-Repo)
-   - **Description**: Brief description of the project.
-   - **Technologies Used**: Java, Spring Boot, MySQL
-   - **Highlights**: Key features or achievements.
