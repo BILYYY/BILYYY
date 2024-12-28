@@ -11,7 +11,7 @@
 - 💬 Feel free to reach out for collaborations or discussions on tech topics
 
 ## 📈 My GitHub Stats
-<p align="center">
+<p >
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BILYYY/BILYYY/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BILYYY/BILYYY/output/github-snake.svg" />
