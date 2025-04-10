@@ -6,10 +6,14 @@
 
 ## 👋 About Me
 - 🎓 **2nd-Year Student** at UIA Grimstad
-- 💻 Meduime in Java, C, C#, C++, JavaScript, ASP.NET, and QT
-- 🌱 Continuously honing my skills and learning new technologies
+- 💻 Medium in Java, C, C#, C++, JavaScript, ASP.NET, and QT
+- 🌱 Currently learning **Docker** and **React Native** while honing my skills in other technologies
+- 🛠️ Working on some **cool projects** — stay tuned, I’ll make the repos public once they’re ready!
 - 💬 Feel free to reach out for collaborations or discussions on tech topics
 
+## 🌐 Connect With Me
+- **Codeforces**: [ilyassb] (Rank: Expert)
+- **Social Media**: Discord - `notr0x` 
 ## 📈 My GitHub Stats
 <p align="center">
   <picture>
