@@ -12,8 +12,8 @@
 - 💬 Feel free to reach out for collaborations or discussions on tech topics
 
 ## 🌐 Connect With Me
-- **Codeforces**: [ilyassb](https://codeforces.com/profile/ilyassb) (Rank: Expert)
-- **Social Media**: Discord - `notorx` | [LinkedIn](https://linkedin.com/in/ilyassb) *(Update with your actual link!)*
+- **Codeforces**: [ilyassb])(Rank: Expert)
+- **Social Media**: Discord - `notorx` | [LinkedIn](https://www.linkedin.com/in/ilyass-bouchabti-2b4901168/) 
 
 ## 📈 My GitHub Stats
 <p align="center">
