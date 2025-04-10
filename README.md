@@ -12,8 +12,9 @@
 - 💬 Feel free to reach out for collaborations or discussions on tech topics
 
 ## 🌐 Connect With Me
-- **Codeforces**: [ilyassb] (Rank: Expert)
-- **Social Media**: Discord - `notr0x` 
+- **Codeforces**: [ilyassb](https://codeforces.com/profile/ilyassb) (Rank: Expert)
+- **Social Media**: Discord - `notorx` | [LinkedIn](https://linkedin.com/in/ilyassb) *(Update with your actual link!)*
+
 ## 📈 My GitHub Stats
 <p align="center">
   <picture>
@@ -23,7 +24,6 @@
   </picture>
 </p>
 
-<!-- Uncomment the following section if you want to include Streak Stats -->
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=BILYYY&theme=shadow-red" alt="Streak Stats">
@@ -35,12 +35,15 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=BILYYY&theme=high-contrast&line=ff0000" alt="GitHub Activity Graph" width="600"/>
   </a>
 </div>
+
 ## 🏆 My GitHub Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=BILYYY&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 🛠️ Languages and Tools
 <div align="center">
   <img src="https://github.com/BILYYY/BILYYY/assets/63551022/d7859be6-2107-48ed-84f8-6ae2f1dee2d8" alt="Tools Image" width="600"/>
 </div>
+
 <div align="center">
   <p>
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
@@ -111,10 +114,10 @@
     </a> 
   </p>
 </div>
--->
+<!--
 ## 📚 Most Used Languages
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BILYYY&layout=compact&theme=dark" alt="Top Languages" width="400"/>
 </div>
+-->
 ---
-
