@@ -4,6 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7000052&random=false&width=435&lines=Student+at+UIA+Grimstad)](https://git.io/typing-svg)
 
+
 ## 👋 About Me
 - 🎓 **3rd-Year Student** at UIA Grimstad
 - 💻 Medium in Java, C, C#, C++, JavaScript, ASP.NET, and QT
@@ -121,5 +122,6 @@
 </div>
 -->
 ---
+
 
 
