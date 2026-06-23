@@ -1,15 +1,5 @@
-<div align="center">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/63551022/292980730-19f2da2b-0f24-4f18-9e0b-6b2332748ad4.svg" alt="Welcome Image" width="300"/>
-</div>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7000052&random=false&width=435&lines=Student+at+UIA+Grimstad)](https://git.io/typing-svg)
-
-
-## 👋 About Me
-- 🎓 **3rd-Year Student** at UIA Grimstad
-- 💻 Medium in Java, C, C#, C++, JavaScript, ASP.NET, and QT
-- 🌱 Currently learning **Docker** and **React Native** while honing my skills in other technologies
-- 🛠️ Working on some **cool projects** — stay tuned, I’ll make the repos public once they’re ready!
-- 💬 Feel free to reach out for collaborations or discussions on tech topics
 
 ## 🌐 Connect With Me
 - **Codeforces**: [ilyassb])(Rank: Expert)
